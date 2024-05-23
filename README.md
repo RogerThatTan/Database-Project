@@ -1,18 +1,14 @@
-E-Commerce Database Management System
+<h1 align = center> E-Commerce Database Management System </h1>
 
 ---
 
+### Overview
 
-
-##### Overview
-
-This project report details the design and implementation of an E-commerce Database Management System for the fictional company "LALLA BHAI." The system is intended to streamline the management of various operations associated with e-commerce platforms, such as user management, product and inventory management, shopping cart functionality, and payment processing. Additional features include product reviews and returns to enhance the user experience for both customers and administrators.
+<p align=justify>This project report details the design and implementation of an E-commerce Database Management System for the fictional company "LALLA BHAI." The system is intended to streamline the management of various operations associated with e-commerce platforms, such as user management, product and inventory management, shopping cart functionality, and payment processing. Additional features include product reviews and returns to enhance the user experience for both customers and administrators.</p>
 
 ---
 
-
-
-##### Table of Contents
+### Table of Contents
 
 1. [Introduction](https://chatgpt.com/c/17787537-d3f9-40c5-9d56-ca6f49bfd0c0#introduction)
 2. [ER-Diagram](https://chatgpt.com/c/17787537-d3f9-40c5-9d56-ca6f49bfd0c0#er-diagram)
